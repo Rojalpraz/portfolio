@@ -54,7 +54,7 @@ function Contact() {
        
           <div className='flex items-center justify-center gap-6'>
             <a 
-              href='https://www.linkedin.com/in/rojal-prajapati-b6aa52306/' 
+              href='https://github.com/Rojalpraz' 
              
               className='p-4  rounded-full transition-all duration-300 border border-violet-400 hover:border-zinc-600 hover:scale-110'
             >
@@ -62,7 +62,7 @@ function Contact() {
             </a>
             
             <a 
-              href='https://github.com/Rojalpraz' 
+              href='https://www.linkedin.com/in/rojal-prajapati-b6aa52306/' 
              
               className='p-4  rounded-full   border border-violet-400 hover:border-zinc-600 hover:scale-110'
             >
