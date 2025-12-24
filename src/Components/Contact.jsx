@@ -43,7 +43,7 @@ function Contact() {
             </a>
             
             <a 
-              href='tel:+1234567890' 
+              href='tel:+977 9862693884' 
               className='flex items-center gap-4 px-8 py-4 bg-gradient-to-br from-gray-800/40 to-gray-900/40 backdrop-blur-smrounded-lg shadow-md hover:shadow-emerald-400/40 border border-zinc-700 hover:border-zinc-600 w-full md:w-auto rounded-xl'
             >
               <Phone className='w-6 h-6 text-green-400' />
