@@ -14,8 +14,8 @@ function Navbar() {
 
           <div className="hidden md:block">
             <div className="text-white flex gap-5">
-              <a href="#">Home</a>
-              <a href="#about">About</a>
+              <a className="" href="#">Home</a>
+              <a className="relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-0 after:h-0.5 after:bg-violet-400 after:transition-all after:duration-300 hover:after:w-full" href="#about">About</a>
               <a href="#project">Projects</a>
               <a href="#contact">Contact</a>
             </div>

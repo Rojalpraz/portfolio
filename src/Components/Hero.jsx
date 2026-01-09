@@ -24,7 +24,7 @@ function Hero() {
               View My Projects
             </button>
             </a>
-            <a href="/CV.pdf" download="CV.pdf">
+            <a href="/CV-Rojal.pdf" download="CV-Rojal.pdf">
          
               <button className="bg-white rounded-2xl  md:rounded-3xl py-3 px-5 md:py-4 md:px-7 ">
                 My Resume
